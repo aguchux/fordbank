@@ -33,13 +33,13 @@ define("session_path","./_sessions/");
 define("session_timout",20);
 define("session_delete_timout",30);
 define("auth_session_key","logged_in");
-define("auth_url","/myhq/login");
+define("auth_url","/ibanking/login");
 define("domain", "https://fordmerchants.com/");
 
 define("db_host","localhost");
-define("db_user","travelaz_anthix");
-define("db_password","N4l7MFUJtnyJE9yesgFFWl");
-define("db","travelaz_anthix");
+define("db_user","fordmerc_yitixf");
+define("db_password","3s2W^Fu%2@VgPxpC%B!tpx");
+define("db","fordmerc_yitixf");
 define("db_port",null);
 define("db_charset","utf8");
 define("db_socket",null);
