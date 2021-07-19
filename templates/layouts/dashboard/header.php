@@ -24,8 +24,8 @@
     <!-- Loader -->
     <div class="row no-gutters vh-100 loader-screen">
         <div class="col align-self-center text-white text-center">
-            <img src="img/logo.png" alt="logo">
-            <h1 class="mt-3"><span class="font-weight-light ">Ford</span>Merchant</h1>
+            <img src="<?= $assets ?>/dashboard/img/logo.png" alt="FordMerchants">
+            <h1 class="mt-3"><span class="font-weight-light ">Ford</span>Merchants</h1>
             <p class="text-mute text-uppercase small">Online Banking</p>
             <div class="laoderhorizontal">
                 <div></div>

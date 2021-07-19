@@ -1,8 +1,8 @@
 
     <!-- jquery, popper and bootstrap js -->
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="vendor/bootstrap-4.4.1/js/bootstrap.min.js"></script>
+    <script src="<?= $assets ?>/dashboard/js/jquery-3.3.1.min.js"></script>
+    <script src="<?= $assets ?>/dashboard/js/popper.min.js"></script>
+    <script src="<?= $assets ?>/dashboard/vendor/bootstrap-4.4.1/js/bootstrap.min.js"></script>
 
     <!-- swiper js -->
     <script src="<?= $assets ?>/dashboard/vendor/swiper/js/swiper.min.js"></script>
